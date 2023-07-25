@@ -8,3 +8,7 @@ geojson
 folium
 mapbox
 pandas
+plotly
+numpy
+geopy
+scipy
